@@ -1,4 +1,4 @@
-### Hi there 👋
+### 안녕하세요. 🐥
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=minseok128&theme=tokyonight_duo)](https://github.com/minseok128)
 
