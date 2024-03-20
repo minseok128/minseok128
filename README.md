@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=🌊%20minseok128%20GitHub%20🌊&fontSize=40&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62) 
-
+![header](https://capsule-render.vercel.app/api?type=venom&height=200&text=minseok128&section=header&reversal=false&textBg=false&fontAlignY=48&fontSize=70&rotate=-8&fontColor=0077FF&strokeWidth=0&desc=github&descAlignY=65&descSize=25)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minseok128&layout=compact&theme=)
 
