@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=minseok128&section=header&reversal=false&textBg=false&fontAlignY=48&fontSize=70&rotate=-8&fontColor=0077FF&strokeWidth=0&desc=github&descAlignY=65&descSize=25"/>
+<!--   <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=minseok128&section=header&reversal=false&textBg=false&fontAlignY=48&fontSize=70&rotate=-8&fontColor=0077FF&strokeWidth=0&desc=github&descAlignY=65&descSize=25"/> -->
   <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minseok128&layout=compact&theme=" height="150"/>
     <img src="http://github-readme-streak-stats.herokuapp.com?user=minseok128&theme=tokyonight_duo" height="150"/>
