@@ -4,7 +4,7 @@
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=minseok128&theme=minimal&days=60&hide_title=true&height=500" alt="minseok128's github activity graph" height="300">
   </a>
-  <div>
+  <!-- <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minseok128&layout=compact&theme=" height="150"/>
     <img src="http://github-readme-streak-stats.herokuapp.com?user=minseok128&theme=tokyonight_duo" height="150"/>
   </div>
@@ -13,8 +13,8 @@
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=minseok128" height="150"/>
     <img src="https://github-readme-stats.vercel.app/api?type=rect&text=RECT&fontAlign=30&fontSize=30&desc=Use%20theme&descAlign=60&descAlignY=50&username=minseok128" height="150" />
   </div>
-  <br/>
-  <div>
+  <br/> -->
+  <!-- <div>
     <div>
       <h3>Main Tech Stack</h3>
       <div>
@@ -80,5 +80,5 @@
           <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
       </div>
     </details>
-  </div>
+  </div> -->
 </div>
